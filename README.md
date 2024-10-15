@@ -50,9 +50,4 @@ Key SQL queries used in the analysis include:
 ## Conclusion
 This project demonstrates how SQL can be effectively used to analyze sales data, identify trends, and provide actionable business insights. The results help optimize sales strategies, improve customer satisfaction, and boost revenue for a pizza chain.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-You can customize the repository details (like the URL) before uploading it to GitHub.
